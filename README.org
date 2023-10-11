@@ -5,14 +5,14 @@
 <div align="center">
 
   <!-- License -->
-  <a href="https://github.com/Unina-Docs/papers/blob/master/LICENSE"
+  <a href="https://github.com/Unina-Docs/notes/blob/master/LICENSE"
           ><img
               src="https://img.shields.io/badge/License-GPL_v3-blue.svg?style=for-the-badge&color=red"
               alt="License"
       /></a>
 
   <!-- Last Commit -->
-  <a href="https://github.com/Unina-Docs/papers/commits/master"
+  <a href="https://github.com/Unina-Docs/notes/commits/master"
     ><img
     src="https://img.shields.io/github/last-commit/Unina-Docs/papers?style=for-the-badge"
     alt="Last commit"
@@ -20,6 +20,6 @@
 
 </div>
 
-<h1 align="center">Papers for Computer Science</h1>
+<h1 align="center">Notes for Computer Science</h1>
 <h2 align="center">Federico II</h2>
 #+END_HTML
